@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Amor, Amizade, Confiança, Saúde
 - 💞️ I’m looking to collaborate on ... Desenvolvimento e Crescimento pessoal 
 - 📫 How to reach me ... Whatsapp (69)9817-6684 
+Teste
 
 <!---
 MARILIAMYA/MARILIAMYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
